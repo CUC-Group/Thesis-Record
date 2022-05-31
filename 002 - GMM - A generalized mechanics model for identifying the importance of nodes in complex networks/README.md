@@ -20,7 +20,7 @@ Fan Liu, Zhen Wang, Yong Deng
 
 中科院SCI:  
 
-![sci分区](sci.jpg)
+![sci分区](sci.png)
 
 ## 摘要
 
