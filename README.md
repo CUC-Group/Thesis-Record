@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://AquariniqueMu.github.io/PDFReader/pdf/viewer.html?file=https://github.com/AquariniqueMu/thesis-resource/用于识别复杂网络中节点重要性的广义力学模型.pdf)
+[预览](https://github.com/CUC-Group/Thesis-Record/pdf/viewer.html?file=https://github.com/AquariniqueMu/thesis-resource/用于识别复杂网络中节点重要性的广义力学模型.pdf)
