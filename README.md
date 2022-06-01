@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://AquariniqueMu.github.io/PDFReader/pdf/viewer.html?file=https://AquariniqueMu.github.io/blob/main/PDFReader/pdf/test.pdf)
+[预览](https://AquariniqueMu.github.io/PDFReader/pdf/viewer.html?file=https://AquariniqueMu.github.io/PDFReader/thesis-resource/test.pdf)
