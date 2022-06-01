@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/blob/main/002%20-%20GMM%20-%20A%20generalized%20mechanics%20model%20for%20identifying%20the%20importance%20of%20nodes%20in%20complex%20networks/GMM%20-%20A%20generalized%20mechanics%20model%20for%20identifying%20the%20importance%20of%20nodes%20in%20complex%20networks.pdf)
+[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/002-用于识别复杂网络中节点重要性的广义力学模型/用于识别复杂网络中节点重要性的广义力学模型.pdf)
