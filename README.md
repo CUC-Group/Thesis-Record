@@ -17,3 +17,8 @@
 
 1. 根据排序和commit查看文献内容，寻找需要的文献
 2. 在网页端使用Ctrl + F寻找关键词
+
+
+## 预览
+
+[预览](https://github.com/CUC-Group/Thesis-Record/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/Thesis-Record/002 - GMM - A generalized mechanics model for identifying the importance of nodes in complex networks/GMM - A generalized mechanics model for identifying the importance of nodes in complex networks.pdf)
