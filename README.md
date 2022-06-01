@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://AquariniqueMu.github.io/pdf/web/viewer.html?file=https://AquariniqueMu.github.io/pdf/web/compressed.tracemonkey-pldi-09.pdf)
+[预览](https://github.com/CUC-Group/Thesis-Record/tree/main/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/tree/main/pdf/test.pdf)
