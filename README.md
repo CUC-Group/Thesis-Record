@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://github.com/CUC-Group/Thesis-Record/tree/main/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/tree/main/pdf/test.pdf)
+[预览](https://github.com/CUC-Group/Thesis-Record/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/pdf/test.pdf)
