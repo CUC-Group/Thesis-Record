@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://AquariniqueMu.github.io/PDFReader/pdf/viewer.html?file=https://AquariniqueMu.github.io/PDFReader/thesis-source/GMM%20-%20A%20generalized%20mechanics%20model%20for%20identifying%20the%20importance%20of%20nodes%20in%20complex%20networks.pdf)
+[预览](https://AquariniqueMu.github.io/PDFReader/pdf/viewer.html?file=https://AquariniqueMu.github.io/PDFReader/thesis-source/用于识别复杂网络中节点重要性的广义力学模型.pdf)
