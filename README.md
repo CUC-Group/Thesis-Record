@@ -21,4 +21,4 @@
 
 ## 预览
 
-[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/blob/main/002-用于识别复杂网络中节点重要性的广义力学模型/用于识别复杂网络中节点重要性的广义力学模型.pdf)
+[预览](https://simingchen.github.io/pdfReader/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/pdf/test.pdf)
