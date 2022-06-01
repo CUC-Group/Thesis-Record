@@ -19,6 +19,4 @@
 2. 在网页端使用Ctrl + F寻找关键词
 
 
-## 预览
 
-[预览](https://github.com/CUC-Group/Thesis-Record/pdf/viewer.html?file=https://github.com/CUC-Group/Thesis-Record/pdf/test.pdf)
