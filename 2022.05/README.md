@@ -14,7 +14,7 @@
 
 ​		***Knowledge-Based Systems***
 
-​		![期刊信息](./GMM - A generalized mechanics model for identifying the importance of nodes in complex networks/sci.png)
+​		![期刊信息](./GMM%20-%20A%20generalized%20mechanics%20model%20for%20identifying%20the%20importance%20of%20nodes%20in%20complex%20networks/sci.png)
 
 #### 	发布时间：
 
