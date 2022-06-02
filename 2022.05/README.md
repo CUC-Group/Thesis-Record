@@ -52,7 +52,7 @@
 
 ​		***Modern Physics Letters B***
 
-​		![期刊信息](./Key node identification of wireless sensor networks based on cascade failure/sci.png)
+​		![期刊信息](./Key%20node%20identification%20of%20wireless%20sensor%20networks%20based%20on%20cascade%20failure/sci.png)
 
 #### 	发布时间：
 
