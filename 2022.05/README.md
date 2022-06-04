@@ -1,26 +1,22 @@
 # 2022年5月文献阅读记录
 
-## 2022.05.26
+# <div align='center' >2022.05.26</div>
 
-### 文献信息：
+## *GMM: A Generalized Mechanics Model for Identifying the Importance of Nodes in Complex Networks*
+​	***GMM：用于识别复杂网络中节点重要性的广义力学模型***
 
-#### 	题目：
 
-​		EN：GMM: A Generalized Mechanics Model for Identifying the Importance of Nodes in Complex Networks
-
-​		CN：GMM：用于识别复杂网络中节点重要性的广义力学模型
-
-#### 	期刊：
+### 	期刊：
 
 ​		***Knowledge-Based Systems***
 
 ​		![期刊信息](./GMM%20-%20A%20generalized%20mechanics%20model%20for%20identifying%20the%20importance%20of%20nodes%20in%20complex%20networks/sci.png)
 
-#### 	发布时间：
+### 	发布时间：
 
 ​		29 December 2019 
 
-#### 	作者信息：
+### 	作者信息：
 
 ​		Fan Liu, Zhen Wang, Yong Deng
 
@@ -38,27 +34,22 @@
 
 ​	Influential nodes, Complex networks, Gravity model
 
-## 2022.05.15
+# <div align='center' >2022.05.15</div>
 
-### 文献信息：
+## *Key node identification of wireless sensor networks based on cascade failure*
+​	***基于级联故障的无线传感器网络的关键节点识别***
 
-#### 	题目：
-
-​		EN：Key node identification of wireless sensor networks based on cascade failure
-
-​		CN：基于级联故障的无线传感器网络的关键节点识别
-
-#### 	期刊：
+### 	期刊：
 
 ​		***Modern Physics Letters B***
 
 ​		![期刊信息](./Key%20node%20identification%20of%20wireless%20sensor%20networks%20based%20on%20cascade%20failure/sci.png)
 
-#### 	发布时间：
+### 	发布时间：
 
 ​		20 August 2020
 
-#### 	作者信息：
+### 	作者信息：
 
 ​		Xiao Wang and Jian Du, Rongcheng Zou, Zebo Zhou
 
