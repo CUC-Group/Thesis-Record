@@ -14,7 +14,7 @@
 
 ​		***Neurocomputing***
 
-​		![期刊信息](./GMM - A generalized mechanics model for identifying the importance of nodes in complex networks/sci.png)
+​		![期刊信息](./2022.06/Information%20propagation%20model%20based%20on%20hybrid%20social%20factors%20of%20opportunity,%20trust%20and%20motivation/sci.png)
 
 #### 	发布时间：
 
