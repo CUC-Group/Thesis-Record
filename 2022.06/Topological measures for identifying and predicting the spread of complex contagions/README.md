@@ -29,7 +29,7 @@ Douglas Guilbeault、Damon Centola
 期刊名：*《**Nature Communication**》*
 
 中科院SCI:  
-
+ 
 ![sci分区](sci.png)
 
 
