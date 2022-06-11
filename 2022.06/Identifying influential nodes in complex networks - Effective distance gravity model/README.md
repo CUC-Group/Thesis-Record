@@ -28,7 +28,7 @@ Qiuyan Shang, Yong Deng, Kang Hao Cheong
 
 SUTD-马萨诸塞州技术学院国际设计中心
 
-## 期刊信息
+## 期刊信息 
 
 期刊名：*《**Information Sciences**》*
 
