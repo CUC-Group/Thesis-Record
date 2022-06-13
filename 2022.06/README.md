@@ -36,7 +36,7 @@ School of Big Data and Software Engineering, Chongqing University, Chongqing 401
 
 期刊名：*《**Information Sciences**》*
 
-![sci分区](C:\Users\PC\Desktop\The identification of crucial spreaders in complex networks by effective gravity model\sci.png)
+![sci分区](./The%20identification%20of%20crucial%20spreaders%20in%20complex%20networks%20by%20effective%20gravity%20model/sci.png)
 
 
 
